@@ -1,12 +1,11 @@
 name: Bootstrap Less
 version: 1.0.0
 description: A Theme to work with Bootstrap Less
-icon: rebel
+icon: grav
 author:
   name: Thomas Bieli
   email: thomas@bieliweb.ch
 homepage: https://github.com/thomas-bieli/grav-theme-bootstrap-less
-demo: http://demo.yoursite.com
 
 keywords: grav, theme, bootstrap, less
 bugs: https://github.com/thomas-bieli/grav-theme-bootstrap-less/issues

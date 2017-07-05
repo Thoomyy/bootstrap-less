@@ -1,4 +1,5 @@
 # v1.0.0
-## 07/05/2017
+## 05/07/2017
 
-1. Created the Theme with the Bootstrao Framework.
+1. [](#new)
+    * ChangeLog started...
